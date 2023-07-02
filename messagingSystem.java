@@ -23,7 +23,8 @@ public class messagingSystem extends Application{
 	Stage window;
 	Scene scene;
 	String who="doctor";
-	
+
+	//hi
 	@Override
 	public void start(Stage primaryStage) {
 		window=primaryStage;
